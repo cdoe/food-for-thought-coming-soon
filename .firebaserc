@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "food-for-thought-demo"
+  },
+  "targets": {
+    "food-for-thought-demo": {
+      "hosting": {
+        "coming-soon": [
+          "fft-coming-soon"
+        ]
+      }
+    }
+  }
+}
