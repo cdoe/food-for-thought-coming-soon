@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "food-for-thought-demo"
+    "default": "food-for-thought-ok"
   },
   "targets": {
-    "food-for-thought-demo": {
+    "food-for-thought-ok": {
       "hosting": {
         "coming-soon": [
-          "fft-coming-soon"
+          "food-for-thought-coming-soon"
         ]
       }
     }
